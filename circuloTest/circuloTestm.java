@@ -27,7 +27,7 @@ public class circuloTestm {
         System.out.println("Área: " + circuloModificado.calcularArea());
 
         Circulo2 circulo = new Circulo2();
-        System.out.println(circulo); //  Imprimirá: Círculo [Radio=5.0, Área=78.53981633974483]
+        System.out.println(circulo); 
       }
 
    
